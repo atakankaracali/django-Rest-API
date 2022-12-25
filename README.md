@@ -20,6 +20,6 @@ DELETE (HTTP_204_NO_CONTENT)
 
 Chrome View
 
-<img width="1440" alt="Screen Shot 2022-12-26 at 00 07 36" src="https://user-images.githubusercontent.com/53658645/209483648-1bf17edb-5b27-4acd-b7d2-d29bc9dcfaf4.png">
+![image](https://user-images.githubusercontent.com/53658645/209483742-0f802c26-dc8e-4f6f-aa6d-796a8b1d5557.png)
 
 
